@@ -1,0 +1,9 @@
+year,unit,n,mean,sd,Low,Moderate,High,Extremely high,high_or_extremely_high_%
+2023,paragraphs,1,2.0,,0,1,0,0,0.0
+2024,paragraphs,8,2.62,0.74,0,4,3,1,50.0
+2025,paragraphs,6,3.0,1.55,2,0,0,4,66.7
+all,paragraphs,15,2.73,1.1,2,5,3,5,53.3
+2023,papers,1,2.0,,0,1,0,0,0.0
+2024,papers,7,2.71,0.76,0,3,3,1,57.1
+2025,papers,6,3.0,1.55,2,0,0,4,66.7
+all,papers,14,2.79,1.12,2,4,3,5,57.1
