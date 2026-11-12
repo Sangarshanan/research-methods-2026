@@ -1,0 +1,6 @@
+year,total_papers,papers_with_disclosure,disclosure_rate_pct,papers_negative,negative_rate_pct,papers_negative,papers_writing_editing,papers_code_generation,papers_literature_search,papers_data_annotation,papers_ideation,papers_figure_generation,papers_research_method,papers_general_unspecified,most_common_tool,most_common_section,papers_needing_review
+2021,100,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,,,1
+2022,113,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,,,5
+2023,101,4,4.0,0,0.0,0,1,0,0,0,0,0,1,4,GPT-3.5,iteratta,5
+2024,123,10,8.1,0,0.0,0,0,0,0,0,0,0,3,8,LLM,introduction,22
+2025,99,8,8.1,1,1.0,1,0,1,0,1,0,1,2,5,LLM,dataset_and_processing,20

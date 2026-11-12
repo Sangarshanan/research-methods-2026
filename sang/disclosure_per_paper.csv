@@ -1,0 +1,537 @@
+year,paper_id,title,source_url,has_disclosure,is_negative_disclosure,disclosure_types,tools_named,task_roles,statement_types,sections_placed,evidence_sentence_1,evidence_sentence_2,num_evidence_sentences,needs_review
+2021,000001,Four-way Classification of Tabla Strokes with Models Adapted from Automatic Drum Transcription 19-26,https://archives.ismir.net/ismir2021/paper/000001.pdf,False,False,,,,,,,,0,False
+2021,000002,A Contextual Latent Space Model: Subsequence Modulation in Melodic Sequence 27-34,https://archives.ismir.net/ismir2021/paper/000002.pdf,False,False,,,,,,,,0,False
+2021,000003,OMR-assisted transcription: a case study with early prints 35-41,https://archives.ismir.net/ismir2021/paper/000003.pdf,False,False,,,,,,,,0,False
+2021,000004,Deeper Convolutional Neural Networks and Broad Augmentation Policies Improve Performance in Musical Key Estimation 42-49,https://archives.ismir.net/ismir2021/paper/000004.pdf,False,False,,,,,,,,0,False
+2021,000005,The Music Performance Markup Format and Ecosystem 50-57,https://archives.ismir.net/ismir2021/paper/000005.pdf,False,False,,,,,,,,0,False
+2021,000006,Identification of rhythm guitar sections in symbolic tablatures 58-65,https://archives.ismir.net/ismir2021/paper/000006.pdf,False,False,,,,,,,,0,False
+2021,000007,On-Line Audio-to-Lyrics Alignment Based on a Reference Performance 66-73,https://archives.ismir.net/ismir2021/paper/000007.pdf,False,False,,,,,,,,0,False
+2021,000008,Visualizing Intertextual Form with Arc Diagrams: Contour and Schema-based Methods 74-80,https://archives.ismir.net/ismir2021/paper/000008.pdf,False,False,,,,,,,,0,False
+2021,000009,Unsupervised Domain Adaptation for Document Analysis of Music Score Images 81-87,https://archives.ismir.net/ismir2021/paper/000009.pdf,False,False,,,,,,,,0,False
+2021,000010,Codified audio language modeling learns useful representations for music information retrieval 88-96,https://archives.ismir.net/ismir2021/paper/000010.pdf,False,False,,,,,,,,0,False
+2021,000011,Variable-Length Music Score Infilling via XLNet and Musically Specialized Positional Encoding 97-104,https://archives.ismir.net/ismir2021/paper/000011.pdf,False,False,,,,,,,,0,False
+2021,000012,SurpriseNet: Melody Harmonization Conditioning on User-controlled Surprise Contours 105-112,https://archives.ismir.net/ismir2021/paper/000012.pdf,False,False,,,,,,,,0,False
+2021,000013,Semi-supervised violin fingering generation using variational autoencoders 113-120,https://archives.ismir.net/ismir2021/paper/000013.pdf,False,False,,,,,,,,0,False
+2021,000014,"Listen, Read, and Identify: Multimodal Singing Language Identification of Music 121-127",https://archives.ismir.net/ismir2021/paper/000014.pdf,False,False,,,,,,,,0,False
+2021,000015,On Perceived Emotion in Expressive Piano Performance: Further Experimental Evidence for the Relevance of Mid-level Perceptual Features 128-134,https://archives.ismir.net/ismir2021/paper/000015.pdf,False,False,,,,,,,,0,False
+2021,000016,Cosine Contours: a Multipurpose Representation for Melodies 135-142,https://archives.ismir.net/ismir2021/paper/000016.pdf,False,False,,,,,,,,0,False
+2021,000017,Controllable deep melody generation via hierarchical music structure representation 143-150,https://archives.ismir.net/ismir2021/paper/000017.pdf,False,False,,,,,,,,0,False
+2021,000018,MSTRE-Net: Multistreaming Acoustic Modeling for Automatic Lyrics Transcription 151-158,https://archives.ismir.net/ismir2021/paper/000018.pdf,False,False,,,,,,,,0,False
+2021,000019,Towards Automatic Instrumentation by Learning to Separate Parts in Symbolic Multitrack Music 159-166,https://archives.ismir.net/ismir2021/paper/000019.pdf,False,False,,,,,,,,0,False
+2021,000020,An Empirical Evaluation of End-to-End Polyphonic Optical Music Recognition 167-173,https://archives.ismir.net/ismir2021/paper/000020.pdf,False,False,,,,,,,,0,False
+2021,000021,A Hardanger Fiddle Dataset with Performances Spanning Emotional Expressions and Annotations Aligned using Image Registration 174-181,https://archives.ismir.net/ismir2021/paper/000021.pdf,False,False,,,,,,,,0,False
+2021,000022,Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data 182-188,https://archives.ismir.net/ismir2021/paper/000022.pdf,False,False,,,,,,,,0,False
+2021,000023,Modeling and Inferring Proto-Voice Structure in Free Polyphony 189-196,https://archives.ismir.net/ismir2021/paper/000023.pdf,False,False,,,,,,,,0,False
+2021,000024,PKSpell: Data-Driven Pitch Spelling and Key Signature Estimation 197-204,https://archives.ismir.net/ismir2021/paper/000024.pdf,False,False,,,,,,,,0,False
+2021,000025,Filosax: A Dataset of Annotated Jazz Saxophone Recordings 205-212,https://archives.ismir.net/ismir2021/paper/000025.pdf,False,False,,,,,,,,0,False
+2021,000026,An interpretable music similarity measure based on path interestingness 213-219,https://archives.ismir.net/ismir2021/paper/000026.pdf,False,False,,,,,,,,0,False
+2021,000027,Leveraging Hierarchical Structures for Few-Shot Musical Instrument Recognition 220-228,https://archives.ismir.net/ismir2021/paper/000027.pdf,False,False,,,,,,,,0,False
+2021,000028,What if the ‘When’ Implies the ‘What’?: Human harmonic analysis datasets clarify the relative role of the separate steps in automatic tonal analysis 229-236,https://archives.ismir.net/ismir2021/paper/000028.pdf,False,False,,,,,,,,0,False
+2021,000029,Let’s agree to disagree: Consensus Entropy Active Learning for Personalized Music Emotion Recognition 237-245,https://archives.ismir.net/ismir2021/paper/000029.pdf,False,False,,,,,,,,0,False
+2021,000030,Sequence-to-Sequence Piano Transcription with Transformers 246-253,https://archives.ismir.net/ismir2021/paper/000030.pdf,False,False,,,,,,,,0,True
+2021,000031,Neural Waveshaping Synthesis 254-261,https://archives.ismir.net/ismir2021/paper/000031.pdf,False,False,,,,,,,,0,False
+2021,000032,A semi-automated workflow paradigm for the distributed creation and curation of expert annotations 262-269,https://archives.ismir.net/ismir2021/paper/000032.pdf,False,False,,,,,,,,0,False
+2021,000033,"BeatNet: CRNN and Particle Filtering for Online Joint Beat, Downbeat and Meter Tracking 270-277",https://archives.ismir.net/ismir2021/paper/000033.pdf,False,False,,,,,,,,0,False
+2021,000035,Learning note-to-note affinity for voice segregation and melody line identification of symbolic music data 285-292,https://archives.ismir.net/ismir2021/paper/000035.pdf,False,False,,,,,,,,0,False
+2021,000036,VOCANO: A note transcription framework for singing voice in polyphonic music 293-300,https://archives.ismir.net/ismir2021/paper/000036.pdf,False,False,,,,,,,,0,False
+2021,000037,De-centering the West: East Asian Philosophies and the Ethics of Applying Artificial Intelligence to Music 301-309,https://archives.ismir.net/ismir2021/paper/000037.pdf,False,False,,,,,,,,0,False
+2021,000038,A Benchmarking Initiative for Audio-domain Music Generation using the FreeSound Loop Dataset 310-317,https://archives.ismir.net/ismir2021/paper/000038.pdf,False,False,,,,,,,,0,False
+2021,000039,EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation 318-325,https://archives.ismir.net/ismir2021/paper/000039.pdf,False,False,,,,,,,,0,False
+2021,000040,Piano Sheet Music Identification Using Marketplace Fingerprinting 326-333,https://archives.ismir.net/ismir2021/paper/000040.pdf,False,False,,,,,,,,0,False
+2021,000041,Learning a cross-domain embedding space of vocal and mixed audio with a structure-preserving triplet loss 334-341,https://archives.ismir.net/ismir2021/paper/000041.pdf,False,False,,,,,,,,0,False
+2021,000042,Decoupling Magnitude and Phase Estimation with Deep ResUNet for Music Source Separation 342-349,https://archives.ismir.net/ismir2021/paper/000042.pdf,False,False,,,,,,,,0,False
+2021,000043,Artist Similarity Using Graph Neural Networks 350-357,https://archives.ismir.net/ismir2021/paper/000043.pdf,False,False,,,,,,,,0,False
+2021,000044,“Finding Home”: Understanding How Music Supports Listeners’ Mental Health through a Case Study of BTS 358-365,https://archives.ismir.net/ismir2021/paper/000044.pdf,False,False,,,,,,,,0,False
+2021,000045,Cross-cultural Mood Perception in Pop Songs and its Alignment with Mood Detection Algorithms 366-373,https://archives.ismir.net/ismir2021/paper/000045.pdf,False,False,,,,,,,,0,False
+2021,000046,Reconsidering quantization in MIR 374-380,https://archives.ismir.net/ismir2021/paper/000046.pdf,False,False,,,,,,,,0,False
+2021,000047,"A unified model for zero-shot music source separation, transcription and synthesis 381-388",https://archives.ismir.net/ismir2021/paper/000047.pdf,False,False,,,,,,,,0,False
+2021,000048,Pitch-Informed Instrument Assignment using a Deep Convolutional Network with Multiple Kernel Shapes 389-395,https://archives.ismir.net/ismir2021/paper/000048.pdf,False,False,,,,,,,,0,False
+2021,000049,SpecTNT: a Time-Frequency Transformer for Music Audio 396-403,https://archives.ismir.net/ismir2021/paper/000049.pdf,False,False,,,,,,,,0,False
+2021,000050,AugmentedNet: A Roman Numeral Analysis Network with Synthetic Training Examples and Additional Tonal Tasks 404-411,https://archives.ismir.net/ismir2021/paper/000050.pdf,False,False,,,,,,,,0,False
+2021,000052,User-centered evaluation of lyrics-to-audio alignment 420-427,https://archives.ismir.net/ismir2021/paper/000052.pdf,False,False,,,,,,,,0,False
+2021,000053,Synthesizer Sound Matching with Differentiable DSP 428-434,https://archives.ismir.net/ismir2021/paper/000053.pdf,False,False,,,,,,,,0,False
+2021,000054,A Modular System for the Harmonic Analysis of Musical Scores using a Large Vocabulary 435-442,https://archives.ismir.net/ismir2021/paper/000054.pdf,False,False,,,,,,,,0,False
+2021,000055,A deep learning method for enforcing coherence in Automatic Chord Recognition 443-451,https://archives.ismir.net/ismir2021/paper/000055.pdf,False,False,,,,,,,,0,False
+2021,000056,Modeling beat uncertainty as a 2D distribution of period and phase: a MIR task proposal 452-459,https://archives.ismir.net/ismir2021/paper/000056.pdf,False,False,,,,,,,,0,False
+2021,000057,A case study of deep enculturation and sensorimotor synchronization to real music 460-467,https://archives.ismir.net/ismir2021/paper/000057.pdf,False,False,,,,,,,,0,False
+2021,000058,Symbolic Music Generation with Diffusion Models 468-475,https://archives.ismir.net/ismir2021/paper/000058.pdf,False,False,,,,,,,,0,False
+2021,000059,Learning from Musical Feedback with Sonic the Hedgehog 476-483,https://archives.ismir.net/ismir2021/paper/000059.pdf,False,False,,,,,,,,0,False
+2021,000060,DarkGAN: Exploiting Knowledge Distillation for Comprehensible Audio Synthesis With GANs 484-492,https://archives.ismir.net/ismir2021/paper/000060.pdf,False,False,,,,,,,,0,False
+2021,000061,Phase-Aware Joint Beat and Downbeat Estimation Based on Periodicity of Metrical Structure 493-499,https://archives.ismir.net/ismir2021/paper/000061.pdf,False,False,,,,,,,,0,False
+2021,000062,Agreement Among Human and Automated Transcriptions of Global Songs 500-508,https://archives.ismir.net/ismir2021/paper/000062.pdf,False,False,,,,,,,,0,False
+2021,000063,Automatic Recognition of Texture in Renaissance Music 509-516,https://archives.ismir.net/ismir2021/paper/000063.pdf,False,False,,,,,,,,0,False
+2021,000064,Is Disentanglement enough? On Latent Representations for Controllable Music Generation 517-524,https://archives.ismir.net/ismir2021/paper/000064.pdf,False,False,,,,,,,,0,False
+2021,000065,Pulse clarity metrics developed from a deep learning beat tracking model 525-530,https://archives.ismir.net/ismir2021/paper/000065.pdf,False,False,,,,,,,,0,False
+2021,000066,"On the Veracity of Local, Model-agnostic Explanations in Audio Classification: Targeted Investigations with Adversarial Examples 531-538",https://archives.ismir.net/ismir2021/paper/000066.pdf,False,False,,,,,,,,0,False
+2021,000067,Is there a “language of music-video clips” ? A qualitative and quantitative study 539-546,https://archives.ismir.net/ismir2021/paper/000067.pdf,False,False,,,,,,,,0,False
+2021,000068,Tabla Gharana Recognition from Audio music recordings of Tabla Solo performances 547-554,https://archives.ismir.net/ismir2021/paper/000068.pdf,False,False,,,,,,,,0,False
+2021,000069,Navigating noise: Modeling perceptual correlates of noise-related semantic timbre categories with audio features 555-561,https://archives.ismir.net/ismir2021/paper/000069.pdf,False,False,,,,,,,,0,False
+2021,000070,Quantitative User Perceptions of Music Recommendation List Diversity 562-568,https://archives.ismir.net/ismir2021/paper/000070.pdf,False,False,,,,,,,,0,False
+2021,000071,A Formal Model of Extended Tonal Harmony 569-578,https://archives.ismir.net/ismir2021/paper/000071.pdf,False,False,,,,,,,,0,False
+2021,000072,CRASH: Raw Audio Score-based Generative Modeling for Controllable High-resolution Drum Sound Synthesis 579-585,https://archives.ismir.net/ismir2021/paper/000072.pdf,False,False,,,,,,,,0,False
+2021,000073,Curriculum Learning for Imbalanced Classification in Large Vocabulary Automatic Chord Recognition 586-593,https://archives.ismir.net/ismir2021/paper/000073.pdf,False,False,,,,,,,,0,False
+2021,000074,Deep Embeddings and Section Fusion Improve Music Segmentation 594-601,https://archives.ismir.net/ismir2021/paper/000074.pdf,False,False,,,,,,,,0,False
+2021,000075,Multi-Task Learning of Graph-based Inductive Representations of Music Content 602-609,https://archives.ismir.net/ismir2021/paper/000075.pdf,False,False,,,,,,,,0,False
+2021,000076,DadaGP: A Dataset of Tokenized GuitarPro Songs for Sequence Models 610-617,https://archives.ismir.net/ismir2021/paper/000076.pdf,False,False,,,,,,,,0,False
+2021,000077,Does Track Sequence in User-generated Playlists Matter? 618-625,https://archives.ismir.net/ismir2021/paper/000077.pdf,False,False,,,,,,,,0,False
+2021,000078,A Differentiable Cost Measure for Intonation Processing in Polyphonic Music 626-633,https://archives.ismir.net/ismir2021/paper/000078.pdf,False,False,,,,,,,,0,False
+2021,000079,Improving Music Performance Assessment With Contrastive Learning 634-641,https://archives.ismir.net/ismir2021/paper/000079.pdf,False,False,,,,,,,,0,False
+2021,000080,Tracing Affordance and Item Adoption on Music Streaming Platforms 642-649,https://archives.ismir.net/ismir2021/paper/000080.pdf,False,False,,,,,,,,0,False
+2021,000081,Computational analysis and modeling of expressive timing in Chopin’s Mazurkas 650-656,https://archives.ismir.net/ismir2021/paper/000081.pdf,False,False,,,,,,,,0,False
+2021,000082,Computational analysis of melodic mode switching in raga performance 657-664,https://archives.ismir.net/ismir2021/paper/000082.pdf,False,False,,,,,,,,0,False
+2021,000083,SinTra: Learning an inspiration model from a single multi-track music segment 665-672,https://archives.ismir.net/ismir2021/paper/000083.pdf,False,False,,,,,,,,0,False
+2021,000084,Contrastive Learning of Musical Representations 673-681,https://archives.ismir.net/ismir2021/paper/000084.pdf,False,False,,,,,,,,0,False
+2021,000085,Musical Tempo Estimation Using a Multi-scale Network 682-689,https://archives.ismir.net/ismir2021/paper/000085.pdf,False,False,,,,,,,,0,False
+2021,000086,On the Integration of Language Models into Sequence to Sequence Architectures for Handwritten Music Recognition 690-696,https://archives.ismir.net/ismir2021/paper/000086.pdf,False,False,,,,,,,,0,False
+2021,000087,Kiite Cafe: A Web Service for Getting Together Virtually to Listen to Music 697-704,https://archives.ismir.net/ismir2021/paper/000087.pdf,False,False,,,,,,,,0,False
+2021,000088,Toward an Understanding of Lyrics-viewing Behavior While Listening to Music on a Smartphone 705-713,https://archives.ismir.net/ismir2021/paper/000088.pdf,False,False,,,,,,,,0,False
+2021,000089,The Words Remain the Same: Cover Detection with Lyrics Transcription 714-721,https://archives.ismir.net/ismir2021/paper/000089.pdf,False,False,,,,,,,,0,False
+2021,000090,MuseBERT: Pre-training Music Representation for Music Understanding and Controllable Generation 722-729,https://archives.ismir.net/ismir2021/paper/000090.pdf,False,False,,,,,,,,0,False
+2021,000092,Learning long-term music representations via hierarchical contextual constraints 738-745,https://archives.ismir.net/ismir2021/paper/000092.pdf,False,False,,,,,,,,0,False
+2021,000093,Learning Pitch-Class Representations from Score-Audio Pairs of Classical Music 746-753,https://archives.ismir.net/ismir2021/paper/000093.pdf,False,False,,,,,,,,0,False
+2021,000095,Audio Defect Detection in Music with Deep Networks 762-768,https://archives.ismir.net/ismir2021/paper/000095.pdf,False,False,,,,,,,,0,False
+2021,000096,Semi-supervised Music Tagging Transformer 769-776,https://archives.ismir.net/ismir2021/paper/000096.pdf,False,False,,,,,,,,0,False
+2021,000097,Emotion Embedding Spaces for Matching Music to Stories 777-785,https://archives.ismir.net/ismir2021/paper/000097.pdf,False,False,,,,,,,,0,False
+2021,000098,CollageNet: Fusing arbitrary melody and accompaniment into a coherent song 786-793,https://archives.ismir.net/ismir2021/paper/000098.pdf,False,False,,,,,,,,0,False
+2021,000099,Human-in-the-Loop Adaptation for Interactive Musical Beat Tracking 794-801,https://archives.ismir.net/ismir2021/paper/000099.pdf,False,False,,,,,,,,0,False
+2021,000100,Composer Classification With Cross-Modal Transfer Learning and Musically-Informed Augmentation 802-809,https://archives.ismir.net/ismir2021/paper/000100.pdf,False,False,,,,,,,,0,False
+2021,000101,Aligning Unsynchronized Part Recordings to a Full Mix Using Iterative Subtractive Alignment 810-817,https://archives.ismir.net/ismir2021/paper/000101.pdf,False,False,,,,,,,,0,False
+2021,000102,ADTOF: A large dataset of non-synthetic music for automatic drum transcription 818-824,https://archives.ismir.net/ismir2021/paper/000102.pdf,False,False,,,,,,,,0,False
+2021,000103,Learn by Referencing: Towards Deep Metric Learning for Singing Assessment 825-832,https://archives.ismir.net/ismir2021/paper/000103.pdf,False,False,,,,,,,,0,False
+2021,000104,AccoMontage: Accompaniment Arrangement via Phrase Selection and Style Transfer 833-840,https://archives.ismir.net/ismir2021/paper/000104.pdf,False,False,,,,,,,,0,False
+2022,000001,Download pdf,https://zenodo.org/record/7316584/files/000001.pdf,False,False,,,,,,,,0,False
+2022,000002,Download pdf,https://zenodo.org/record/7342730/files/000002.pdf,False,False,,,,,,,,0,False
+2022,000003,Download pdf,https://zenodo.org/record/7316588/files/000003.pdf,False,False,,,,,,,,0,False
+2022,000004,Download pdf,https://zenodo.org/record/7316590/files/000004.pdf,False,False,,,,,,,,0,False
+2022,000005,Download pdf,https://zenodo.org/record/7316592/files/000005.pdf,False,False,,,,,,,,0,False
+2022,000006,Download pdf,https://zenodo.org/record/7316594/files/000006.pdf,False,False,,,,,,,,0,False
+2022,000007,Download pdf,https://zenodo.org/record/7316596/files/000007.pdf,False,False,,,,,,,,0,False
+2022,000008,Download pdf,https://zenodo.org/record/7316600/files/000008.pdf,False,False,,,,,,,,0,False
+2022,000009,Download pdf,https://zenodo.org/record/7316602/files/000009.pdf,False,False,,,,,,,,0,False
+2022,000010,Download pdf,https://zenodo.org/record/7316604/files/000010.pdf,False,False,,,,,,,,0,False
+2022,000011,Download pdf,https://zenodo.org/record/7316606/files/000011.pdf,False,False,,,,,,,,0,False
+2022,000012,Download pdf,https://zenodo.org/record/7316608/files/000012.pdf,False,False,,,,,,,,0,False
+2022,000013,Download pdf,https://zenodo.org/record/7316610/files/000013.pdf,False,False,,,,,,,,0,False
+2022,000014,Download pdf,https://zenodo.org/record/7316612/files/000014.pdf,False,False,,,,,,,,0,False
+2022,000015,Download pdf,https://zenodo.org/record/7316614/files/000015.pdf,False,False,,,,,,,,0,False
+2022,000016,Download pdf,https://zenodo.org/record/7316616/files/000016.pdf,False,False,,,,,,,,0,False
+2022,000017,Download pdf,https://zenodo.org/record/7316618/files/000017.pdf,False,False,,,,,,,,0,True
+2022,000018,Download pdf,https://zenodo.org/record/7343078/files/000018.pdf,False,False,,,,,,,,0,False
+2022,000019,Download pdf,https://zenodo.org/record/7316622/files/000019.pdf,False,False,,,,,,,,0,False
+2022,000020,Download pdf,https://zenodo.org/record/7342916/files/000020.pdf,False,False,,,,,,,,0,False
+2022,000021,Download pdf,https://zenodo.org/record/7342816/files/000021.pdf,False,False,,,,,,,,0,False
+2022,000022,Download pdf,https://zenodo.org/record/7316628/files/000022.pdf,False,False,,,,,,,,0,True
+2022,000023,Download pdf,https://zenodo.org/record/7316630/files/000023.pdf,False,False,,,,,,,,0,False
+2022,000024,Download pdf,https://zenodo.org/record/7316632/files/000024.pdf,False,False,,,,,,,,0,False
+2022,000025,Download pdf,https://zenodo.org/record/7316634/files/000025.pdf,False,False,,,,,,,,0,False
+2022,000026,Download pdf,https://zenodo.org/record/7342678/files/000026.pdf,False,False,,,,,,,,0,False
+2022,000027,Download pdf,https://zenodo.org/record/7316638/files/000027.pdf,False,False,,,,,,,,0,False
+2022,000028,Download pdf,https://zenodo.org/record/7316640/files/000028.pdf,False,False,,,,,,,,0,False
+2022,000029,Download pdf,https://zenodo.org/record/7316642/files/000029.pdf,False,False,,,,,,,,0,False
+2022,000030,Download pdf,https://zenodo.org/record/7316644/files/000030.pdf,False,False,,,,,,,,0,False
+2022,000031,Download pdf,https://zenodo.org/record/7316646/files/000031.pdf,False,False,,,,,,,,0,False
+2022,000032,Download pdf,https://zenodo.org/record/7343047/files/000032.pdf,False,False,,,,,,,,0,False
+2022,000033,Download pdf,https://zenodo.org/record/7316650/files/000033.pdf,False,False,,,,,,,,0,False
+2022,000034,Download pdf,https://zenodo.org/record/7316652/files/000034.pdf,False,False,,,,,,,,0,False
+2022,000035,Download pdf,https://zenodo.org/record/7316654/files/000035.pdf,False,False,,,,,,,,0,False
+2022,000036,Download pdf,https://zenodo.org/record/7316656/files/000036.pdf,False,False,,,,,,,,0,False
+2022,000037,Download pdf,https://zenodo.org/record/7316658/files/000037.pdf,False,False,,,,,,,,0,False
+2022,000038,Download pdf,https://zenodo.org/record/7316660/files/000038.pdf,False,False,,,,,,,,0,False
+2022,000039,Download pdf,https://zenodo.org/record/7342846/files/000039.pdf,False,False,,,,,,,,0,False
+2022,000040,Download pdf,https://zenodo.org/record/7316666/files/000040.pdf,False,False,,,,,,,,0,False
+2022,000041,Download pdf,https://zenodo.org/record/7316670/files/000041.pdf,False,False,,,,,,,,0,False
+2022,000042,Download pdf,https://zenodo.org/record/7316672/files/000042.pdf,False,False,,,,,,,,0,False
+2022,000043,Download pdf,https://zenodo.org/record/7385261/files/000043.pdf,False,False,,,,,,,,0,False
+2022,000044,Download pdf,https://zenodo.org/record/7316676/files/000044.pdf,False,False,,,,,,,,0,False
+2022,000045,Download pdf,https://zenodo.org/record/7316678/files/000045.pdf,False,False,,,,,,,,0,False
+2022,000046,Download pdf,https://zenodo.org/record/7316680/files/000046.pdf,False,False,,,,,,,,0,True
+2022,000047,Download pdf,https://zenodo.org/record/7316682/files/000047.pdf,False,False,,,,,,,,0,False
+2022,000048,Download pdf,https://zenodo.org/record/7342755/files/000048.pdf,False,False,,,,,,,,0,False
+2022,000049,Download pdf,https://zenodo.org/record/7316688/files/000049.pdf,False,False,,,,,,,,0,False
+2022,000050,Download pdf,https://zenodo.org/record/7316690/files/000050.pdf,False,False,,,,,,,,0,False
+2022,000051,Download pdf,https://zenodo.org/record/7316692/files/000051.pdf,False,False,,,,,,,,0,False
+2022,000052,Download pdf,https://zenodo.org/record/7316694/files/000052.pdf,False,False,,,,,,,,0,False
+2022,000053,Download pdf,https://zenodo.org/record/7342764/files/000053.pdf,False,False,,,,,,,,0,False
+2022,000054,Download pdf,https://zenodo.org/record/7316698/files/000054.pdf,False,False,,,,,,,,0,False
+2022,000055,Download pdf,https://zenodo.org/record/7342809/files/000055.pdf,False,False,,,,,,,,0,False
+2022,000056,Download pdf,https://zenodo.org/record/7316702/files/000056.pdf,False,False,,,,,,,,0,False
+2022,000057,Download pdf,https://zenodo.org/record/7342840/files/000057.pdf,False,False,,,,,,,,0,False
+2022,000058,Download pdf,https://zenodo.org/record/7316706/files/000058.pdf,False,False,,,,,,,,0,False
+2022,000059,Download pdf,https://zenodo.org/record/7316708/files/000059.pdf,False,False,,,,,,,,0,False
+2022,000060,Download pdf,https://zenodo.org/record/7316710/files/000060.pdf,False,False,,,,,,,,0,False
+2022,000061,Download pdf,https://zenodo.org/record/7316712/files/000061.pdf,False,False,,,,,,,,0,False
+2022,000062,Download pdf,https://zenodo.org/record/7316714/files/000062.pdf,False,False,,,,,,,,0,False
+2022,000063,Download pdf,https://zenodo.org/record/7316716/files/000063.pdf,False,False,,,,,,,,0,False
+2022,000064,Download pdf,https://zenodo.org/record/7372149/files/000064.pdf,False,False,,,,,,,,0,False
+2022,000065,Download pdf,https://zenodo.org/record/7316720/files/000065.pdf,False,False,,,,,,,,0,False
+2022,000066,Download pdf,https://zenodo.org/record/7316722/files/000066.pdf,False,False,,,,,,,,0,False
+2022,000067,Download pdf,https://zenodo.org/record/7316724/files/000067.pdf,False,False,,,,,,,,0,False
+2022,000068,Download pdf,https://zenodo.org/record/7342745/files/000068.pdf,False,False,,,,,,,,0,False
+2022,000069,Download pdf,https://zenodo.org/record/7342777/files/000069.pdf,False,False,,,,,,,,0,False
+2022,000070,Download pdf,https://zenodo.org/record/7316730/files/000070.pdf,False,False,,,,,,,,0,False
+2022,000071,Download pdf,https://zenodo.org/record/7343060/files/000071.pdf,False,False,,,,,,,,0,False
+2022,000072,Download pdf,https://zenodo.org/record/7316734/files/000072.pdf,False,False,,,,,,,,0,False
+2022,000073,Download pdf,https://zenodo.org/record/7343063/files/000073.pdf,False,False,,,,,,,,0,False
+2022,000074,Download pdf,https://zenodo.org/record/7316738/files/000074.pdf,False,False,,,,,,,,0,False
+2022,000075,Download pdf,https://zenodo.org/record/7316740/files/000075.pdf,False,False,,,,,,,,0,False
+2022,000076,Download pdf,https://zenodo.org/record/7316742/files/000076.pdf,False,False,,,,,,,,0,False
+2022,000077,Download pdf,https://zenodo.org/record/7316744/files/000077.pdf,False,False,,,,,,,,0,False
+2022,000078,Download pdf,https://zenodo.org/record/7316746/files/000078.pdf,False,False,,,,,,,,0,False
+2022,000079,Download pdf,https://zenodo.org/record/7316748/files/000079.pdf,False,False,,,,,,,,0,False
+2022,000080,Download pdf,https://zenodo.org/record/7316750/files/000080.pdf,False,False,,,,,,,,0,False
+2022,000081,Download pdf,https://zenodo.org/record/7316752/files/000081.pdf,False,False,,,,,,,,0,False
+2022,000082,Download pdf,https://zenodo.org/record/7316754/files/000082.pdf,False,False,,,,,,,,0,False
+2022,000083,Download pdf,https://zenodo.org/record/7316756/files/000083.pdf,False,False,,,,,,,,0,False
+2022,000084,Download pdf,https://zenodo.org/record/7316758/files/000084.pdf,False,False,,,,,,,,0,False
+2022,000085,Download pdf,https://zenodo.org/record/7316762/files/000085.pdf,False,False,,,,,,,,0,False
+2022,000086,Download pdf,https://zenodo.org/record/7342704/files/000086.pdf,False,False,,,,,,,,0,False
+2022,000087,Download pdf,https://zenodo.org/record/7316766/files/000087.pdf,False,False,,,,,,,,0,False
+2022,000088,Download pdf,https://zenodo.org/record/7316768/files/000088.pdf,False,False,,,,,,,,0,True
+2022,000089,Download pdf,https://zenodo.org/record/7316770/files/000089.pdf,False,False,,,,,,,,0,True
+2022,000090,Download pdf,https://zenodo.org/record/7342932/files/000090.pdf,False,False,,,,,,,,0,False
+2022,000091,Download pdf,https://zenodo.org/record/7402960/files/000091.pdf,False,False,,,,,,,,0,False
+2022,000092,Download pdf,https://zenodo.org/record/7316776/files/000092.pdf,False,False,,,,,,,,0,False
+2022,000093,Download pdf,https://zenodo.org/record/7316778/files/000093.pdf,False,False,,,,,,,,0,False
+2022,000094,Download pdf,https://zenodo.org/record/7316780/files/000094.pdf,False,False,,,,,,,,0,False
+2022,000095,Download pdf,https://zenodo.org/record/7316782/files/000095.pdf,False,False,,,,,,,,0,False
+2022,000096,Download pdf,https://zenodo.org/record/7343071/files/000096.pdf,False,False,,,,,,,,0,False
+2022,000097,Download pdf,https://zenodo.org/record/7316786/files/000097.pdf,False,False,,,,,,,,0,False
+2022,000098,Download pdf,https://zenodo.org/record/7316788/files/000098.pdf,False,False,,,,,,,,0,False
+2022,000099,Download pdf,https://zenodo.org/record/7316790/files/000099.pdf,False,False,,,,,,,,0,False
+2022,000100,Download pdf,https://zenodo.org/record/7316792/files/000100.pdf,False,False,,,,,,,,0,False
+2022,000101,Download pdf,https://zenodo.org/record/7342531/files/000101.pdf,False,False,,,,,,,,0,False
+2022,000102,Download pdf,https://zenodo.org/record/7342596/files/000102.pdf,False,False,,,,,,,,0,False
+2022,000103,Download pdf,https://zenodo.org/record/7343083/files/000103.pdf,False,False,,,,,,,,0,False
+2022,000104,Download pdf,https://zenodo.org/record/7316800/files/000104.pdf,False,False,,,,,,,,0,False
+2022,000105,Download pdf,https://zenodo.org/record/7316804/files/000105.pdf,False,False,,,,,,,,0,False
+2022,000106,Download pdf,https://zenodo.org/record/7316806/files/000106.pdf,False,False,,,,,,,,0,False
+2022,000107,Download pdf,https://zenodo.org/record/7342796/files/000107.pdf,False,False,,,,,,,,0,False
+2022,000108,Download pdf,https://zenodo.org/record/7316810/files/000108.pdf,False,False,,,,,,,,0,False
+2022,000109,Download pdf,https://zenodo.org/record/7372162/files/000109.pdf,False,False,,,,,,,,0,False
+2022,000110,Download pdf,https://zenodo.org/record/7316814/files/000110.pdf,False,False,,,,,,,,0,False
+2022,000111,Download pdf,https://zenodo.org/record/7316816/files/000111.pdf,False,False,,,,,,,,0,False
+2022,000112,Download pdf,https://zenodo.org/record/7343094/files/000112.pdf,False,False,,,,,,,,0,False
+2022,000113,Download pdf,https://zenodo.org/record/7343091/files/000113.pdf,False,False,,,,,,,,0,False
+2023,000001,Download pdf,https://zenodo.org/record/10265213/files/000001.pdf,False,False,,,,,,,,0,False
+2023,000002,Download pdf,https://zenodo.org/record/10265215/files/000002.pdf,False,False,,,,,,,,0,False
+2023,000003,Download pdf,https://zenodo.org/record/10265217/files/000003.pdf,False,False,,,,,,,,0,False
+2023,000004,Download pdf,https://zenodo.org/record/10265219/files/000004.pdf,False,False,,,,,,,,0,False
+2023,000005,Download pdf,https://zenodo.org/record/10265221/files/000005.pdf,False,False,,,,,,,,0,False
+2023,000006,Download pdf,https://zenodo.org/record/10265223/files/000006.pdf,False,False,,,,,,,,0,False
+2023,000007,Download pdf,https://zenodo.org/record/10265225/files/000007.pdf,False,False,,,,,,,,0,False
+2023,000008,Download pdf,https://zenodo.org/record/10265227/files/000008.pdf,False,False,,,,,,,,0,True
+2023,000009,Download pdf,https://zenodo.org/record/10265229/files/000009.pdf,False,False,,,,,,,,0,False
+2023,000010,Download pdf,https://zenodo.org/record/10265231/files/000010.pdf,False,False,,,,,,,,0,False
+2023,000011,Download pdf,https://zenodo.org/record/10265233/files/000011.pdf,False,False,,,,,,,,0,False
+2023,000012,Download pdf,https://zenodo.org/record/10265237/files/000012.pdf,False,False,,,,,,,,0,False
+2023,000013,Download pdf,https://zenodo.org/record/10265236/files/000013.pdf,False,False,,,,,,,,0,False
+2023,000014,Download pdf,https://zenodo.org/record/10265239/files/000014.pdf,True,False,general_unspecified; writing_editing,GPT-3.5; DeepL,Backend prompt construction; Non-English prompt translation,Type 2 — Core System & Method Pipeline,iteratta,"For the implementation of its back-end server, we utilized Python with FastAPI and incorporated an API of GPT-3.5 2 to construct initial prompts, while AudioLDM [11] was employed to generate the music audios.","In addition, we used DeepL API to translate text prompts into English when they were provided in non-English languages because we observed that it led to better results in Section 3.",2,True
+2023,000015,Download pdf,https://zenodo.org/record/10265243/files/000015.pdf,False,False,,,,,,,,0,False
+2023,000016,Download pdf,https://zenodo.org/record/10265245/files/000016.pdf,False,False,,,,,,,,0,False
+2023,000017,Download pdf,https://zenodo.org/record/10265247/files/000017.pdf,False,False,,,,,,,,0,False
+2023,000018,Download pdf,https://zenodo.org/record/10265249/files/000018.pdf,False,False,,,,,,,,0,False
+2023,000019,Download pdf,https://zenodo.org/record/10265251/files/000019.pdf,False,False,,,,,,,,0,False
+2023,000020,Download pdf,https://zenodo.org/record/10265253/files/000020.pdf,False,False,,,,,,,,0,False
+2023,000022,Download pdf,https://zenodo.org/record/10265257/files/000022.pdf,False,False,,,,,,,,0,False
+2023,000023,Download pdf,https://zenodo.org/record/10265259/files/000023.pdf,False,False,,,,,,,,0,False
+2023,000025,Download pdf,https://zenodo.org/record/10265263/files/000025.pdf,False,False,,,,,,,,0,False
+2023,000026,Download pdf,https://zenodo.org/record/10265265/files/000026.pdf,False,False,,,,,,,,0,False
+2023,000027,Download pdf,https://zenodo.org/record/10265267/files/000027.pdf,False,False,,,,,,,,0,False
+2023,000028,Download pdf,https://zenodo.org/record/10265269/files/000028.pdf,False,False,,,,,,,,0,False
+2023,000029,Download pdf,https://zenodo.org/record/10265271/files/000029.pdf,False,False,,,,,,,,0,False
+2023,000030,Download pdf,https://zenodo.org/record/10265273/files/000030.pdf,False,False,,,,,,,,0,False
+2023,000031,Download pdf,https://zenodo.org/record/10265275/files/000031.pdf,False,False,,,,,,,,0,False
+2023,000032,Download pdf,https://zenodo.org/record/10265277/files/000032.pdf,False,False,,,,,,,,0,False
+2023,000033,Download pdf,https://zenodo.org/record/10265279/files/000033.pdf,False,False,,,,,,,,0,False
+2023,000034,Download pdf,https://zenodo.org/record/10265283/files/000034.pdf,False,False,,,,,,,,0,False
+2023,000035,Download pdf,https://zenodo.org/record/10265285/files/000035.pdf,False,False,,,,,,,,0,False
+2023,000036,Download pdf,https://zenodo.org/record/10265287/files/000036.pdf,False,False,,,,,,,,0,False
+2023,000037,Download pdf,https://zenodo.org/record/10265289/files/000037.pdf,False,False,,,,,,,,0,False
+2023,000038,Download pdf,https://zenodo.org/record/10265291/files/000038.pdf,False,False,,,,,,,,0,True
+2023,000039,Download pdf,https://zenodo.org/record/10265293/files/000039.pdf,False,False,,,,,,,,0,False
+2023,000040,Download pdf,https://zenodo.org/record/10265295/files/000040.pdf,True,False,general_unspecified,Whisper,Automatic lyrics transcription,Type 2 — Core System & Method Pipeline,related_work; methodology,"In the second stage, we utilize the language identification module in Whisper to predict input audio language.","To address this issue, we utilize the input prompt designed in Whisper as a prefix prompt to guide it toward the lyric transcription task.",4,True
+2023,000041,Download pdf,https://zenodo.org/record/10265297/files/000041.pdf,False,False,,,,,,,,0,False
+2023,000042,Download pdf,https://zenodo.org/record/10265299/files/000042.pdf,False,False,,,,,,,,0,False
+2023,000043,Download pdf,https://zenodo.org/record/10265301/files/000043.pdf,False,False,,,,,,,,0,False
+2023,000044,Download pdf,https://zenodo.org/record/10265303/files/000044.pdf,False,False,,,,,,,,0,False
+2023,000045,Download pdf,https://zenodo.org/record/10265305/files/000045.pdf,False,False,,,,,,,,0,False
+2023,000046,Download pdf,https://zenodo.org/record/10265307/files/000046.pdf,False,False,,,,,,,,0,False
+2023,000047,Download pdf,https://zenodo.org/record/10265309/files/000047.pdf,True,False,general_unspecified,ChatGPT,Lyrics summarization / Prompt creation,Type 3 — Evaluation & Annotation Support,qualitative_evaluation,"To prepare the input text in an objective way, we collected the titles of the “Hot 100 Songs” in 2022 on the Billboard year-end charts 11 , extracted the first verse from > 10 `https://github.com/KentoW/ISMIR2023` > 11 `https://www.billboard.com/charts/year-end/202` their lyrics, and summarized each verse into a short sentence using ChatGPT. 12 Since 9 songs contained explicit content in either the input text or the generated lyrics, they were excluded for ethical reasons. 13 We then showed the evaluator the input text and the lyrics generated from it, and asked to classify whether the impressions of the two were similar or not.",,1,False
+2023,000048,Download pdf,https://zenodo.org/record/10265311/files/000048.pdf,True,False,general_unspecified; research_method,LLM; Large Language Model,Dataset pseudo-caption creation,Type 1 — Dataset Creation & Corpus Augmentation,introduction; pseudo_caption_generation_using_large_language_models; dataset_lp_musiccaps; conclusion,"Third, we demonstrate that models trained on LP-MusicCaps perform well in both zero-shot and transfer learning scenarios, justifying the use of LLM-based pseudo-music captions.","In this section, we introduce how music-specific pseudo captions are created using a large language model in the proposed method. ## 2.1 Large Language Model for Data Generation We first take multi-label tags from existing music tagging datasets.",4,True
+2023,000049,Download pdf,https://zenodo.org/record/10265313/files/000049.pdf,False,False,,,,,,,,0,False
+2023,000050,Download pdf,https://zenodo.org/record/10265315/files/000050.pdf,False,False,,,,,,,,0,False
+2023,000051,Download pdf,https://zenodo.org/record/10265317/files/000051.pdf,False,False,,,,,,,,0,False
+2023,000052,Download pdf,https://zenodo.org/record/10265319/files/000052.pdf,False,False,,,,,,,,0,False
+2023,000053,Download pdf,https://zenodo.org/record/10265323/files/000053.pdf,False,False,,,,,,,,0,False
+2023,000054,Download pdf,https://zenodo.org/record/10265321/files/000054.pdf,False,False,,,,,,,,0,False
+2023,000055,Download pdf,https://zenodo.org/record/10265325/files/000055.pdf,False,False,,,,,,,,0,False
+2023,000056,Download pdf,https://zenodo.org/record/10265329/files/000056.pdf,False,False,,,,,,,,0,False
+2023,000057,Download pdf,https://zenodo.org/record/10265331/files/000057.pdf,False,False,,,,,,,,0,False
+2023,000058,Download pdf,https://zenodo.org/record/10265333/files/000058.pdf,False,False,,,,,,,,0,False
+2023,000059,Download pdf,https://zenodo.org/record/10265335/files/000059.pdf,False,False,,,,,,,,0,False
+2023,000060,Download pdf,https://zenodo.org/record/10265337/files/000060.pdf,False,False,,,,,,,,0,False
+2023,000061,Download pdf,https://zenodo.org/record/10265339/files/000061.pdf,False,False,,,,,,,,0,False
+2023,000062,Download pdf,https://zenodo.org/record/10265341/files/000062.pdf,False,False,,,,,,,,0,False
+2023,000063,Download pdf,https://zenodo.org/record/10265343/files/000063.pdf,False,False,,,,,,,,0,False
+2023,000064,Download pdf,https://zenodo.org/record/10265345/files/000064.pdf,False,False,,,,,,,,0,False
+2023,000065,Download pdf,https://zenodo.org/record/10265347/files/000065.pdf,False,False,,,,,,,,0,False
+2023,000066,Download pdf,https://zenodo.org/record/10265351/files/000066.pdf,False,False,,,,,,,,0,False
+2023,000067,Download pdf,https://zenodo.org/record/10340442/files/000067.pdf,False,False,,,,,,,,0,False
+2023,000068,Download pdf,https://zenodo.org/record/10265353/files/000068.pdf,False,False,,,,,,,,0,False
+2023,000069,Download pdf,https://zenodo.org/record/10265355/files/000069.pdf,False,False,,,,,,,,0,False
+2023,000070,Download pdf,https://zenodo.org/record/10265357/files/000070.pdf,False,False,,,,,,,,0,False
+2023,000071,Download pdf,https://zenodo.org/record/10265359/files/000071.pdf,False,False,,,,,,,,0,False
+2023,000072,Download pdf,https://zenodo.org/record/10265361/files/000072.pdf,False,False,,,,,,,,0,False
+2023,000073,Download pdf,https://zenodo.org/record/10265363/files/000073.pdf,False,False,,,,,,,,0,False
+2023,000074,Download pdf,https://zenodo.org/record/10265365/files/000074.pdf,False,False,,,,,,,,0,False
+2023,000075,Download pdf,https://zenodo.org/record/10265367/files/000075.pdf,False,False,,,,,,,,0,False
+2023,000076,Download pdf,https://zenodo.org/record/10265371/files/000076.pdf,False,False,,,,,,,,0,False
+2023,000077,Download pdf,https://zenodo.org/record/10265375/files/000077.pdf,False,False,,,,,,,,0,False
+2023,000078,Download pdf,https://zenodo.org/record/10265373/files/000078.pdf,False,False,,,,,,,,0,False
+2023,000079,Download pdf,https://zenodo.org/record/13916489/files/000079.pdf,False,False,,,,,,,,0,False
+2023,000080,Download pdf,https://zenodo.org/record/10265379/files/000080.pdf,False,False,,,,,,,,0,False
+2023,000081,Download pdf,https://zenodo.org/record/10265381/files/000081.pdf,False,False,,,,,,,,0,False
+2023,000082,Download pdf,https://zenodo.org/record/10265383/files/000082.pdf,False,False,,,,,,,,0,False
+2023,000083,Download pdf,https://zenodo.org/record/10265385/files/000083.pdf,False,False,,,,,,,,0,False
+2023,000084,Download pdf,https://zenodo.org/record/10265387/files/000084.pdf,False,False,,,,,,,,0,False
+2023,000085,Download pdf,https://zenodo.org/record/10265389/files/000085.pdf,False,False,,,,,,,,0,False
+2023,000086,Download pdf,https://zenodo.org/record/10265391/files/000086.pdf,False,False,,,,,,,,0,False
+2023,000087,Download pdf,https://zenodo.org/record/10265393/files/000087.pdf,False,False,,,,,,,,0,False
+2023,000088,Download pdf,https://zenodo.org/record/10265396/files/000088.pdf,False,False,,,,,,,,0,False
+2023,000089,Download pdf,https://zenodo.org/record/10265397/files/000089.pdf,False,False,,,,,,,,0,False
+2023,000090,Download pdf,https://zenodo.org/record/10265400/files/000090.pdf,False,False,,,,,,,,0,False
+2023,000091,Download pdf,https://zenodo.org/record/10265401/files/000091.pdf,False,False,,,,,,,,0,False
+2023,000092,Download pdf,https://zenodo.org/record/10265405/files/000092.pdf,False,False,,,,,,,,0,False
+2023,000093,Download pdf,https://zenodo.org/record/10265403/files/000093.pdf,False,False,,,,,,,,0,False
+2023,000094,Download pdf,https://zenodo.org/record/10265407/files/000094.pdf,False,False,,,,,,,,0,False
+2023,000095,Download pdf,https://zenodo.org/record/10265409/files/000095.pdf,False,False,,,,,,,,0,False
+2023,000096,Download pdf,https://zenodo.org/record/10265411/files/000096.pdf,False,False,,,,,,,,0,False
+2023,000097,Download pdf,https://zenodo.org/record/10265415/files/000097.pdf,False,False,,,,,,,,0,False
+2023,000098,Download pdf,https://zenodo.org/record/10265414/files/000098.pdf,False,False,,,,,,,,0,False
+2023,000099,Download pdf,https://zenodo.org/record/10265419/files/000099.pdf,False,False,,,,,,,,0,False
+2023,000100,Download pdf,https://zenodo.org/record/10265417/files/000100.pdf,False,False,,,,,,,,0,False
+2023,000101,Download pdf,https://zenodo.org/record/10265421/files/000101.pdf,False,False,,,,,,,,0,False
+2023,000102,Download pdf,https://zenodo.org/record/10265423/files/000102.pdf,False,False,,,,,,,,0,False
+2023,000103,Download pdf,https://zenodo.org/record/10265427/files/000103.pdf,False,False,,,,,,,,0,False
+2024,000001,Download pdf,https://zenodo.org/record/14877282/files/000001.pdf,False,False,,,,,,,,0,False
+2024,000002,Download pdf,https://zenodo.org/record/14877279/files/000002.pdf,False,False,,,,,,,,0,False
+2024,000003,Download pdf,https://zenodo.org/record/14877280/files/000003.pdf,True,False,general_unspecified,Whisper,Automatic lyrics transcription,Type 2 — Core System & Method Pipeline,introduction,"Specifically, we use Whisper [17] as the pre-trained ASR module for its inherent scalability and robust recognition capabilities across multiple languages.",,1,True
+2024,000004,Download pdf,https://zenodo.org/record/14877286/files/000004.pdf,False,False,,,,,,,,0,False
+2024,000005,Download pdf,https://zenodo.org/record/14877287/files/000005.pdf,False,False,,,,,,,,0,False
+2024,000006,Download pdf,https://zenodo.org/record/14877285/files/000006.pdf,False,False,,,,,,,,0,False
+2024,000007,Download pdf,https://zenodo.org/record/14877281/files/000007.pdf,False,False,,,,,,,,0,True
+2024,000008,Download pdf,https://zenodo.org/record/14877289/files/000008.pdf,False,False,,,,,,,,0,False
+2024,000009,Download pdf,https://zenodo.org/record/14877291/files/000009.pdf,False,False,,,,,,,,0,False
+2024,000010,Download pdf,https://zenodo.org/record/14877293/files/000010.pdf,False,False,,,,,,,,0,False
+2024,000011,Download pdf,https://zenodo.org/record/14877295/files/000011.pdf,False,False,,,,,,,,0,True
+2024,000012,Download pdf,https://zenodo.org/record/14877297/files/000012.pdf,False,False,,,,,,,,0,False
+2024,000013,Download pdf,https://zenodo.org/record/14877299/files/000013.pdf,False,False,,,,,,,,0,False
+2024,000014,Download pdf,https://zenodo.org/record/14877301/files/000014.pdf,True,False,general_unspecified; research_method,Large Language Model; GPT-4; LLM,Research method / Tool application; Synthetic lyrics dataset creation; Synthetic lyrics generation,Type 1 — Dataset Creation & Corpus Augmentation; Type 2 — Core System & Method Pipeline,abstract; introduction; related_work; conclusion; ethics_statement,"Building on the Moral Foundations Theory (MFT), we tasked a set of transformerbased language models (BERT) fine-tuned on 2,721 synthetic lyrics generated by a large language model (GPT4) to detect moral values in 200 real music lyrics annotated by two experts.","Specifically, we leverage the generative capabilities of GPT-4 (Generative Pre-trained Transformer) to create morally nuanced synthetic lyrics—a process required only once—and employ BERT (Bidirectional Encoder Representations from Transformers), which demands fewer computational resources, to learn from the synthetic data structure.",8,True
+2024,000015,Download pdf,https://zenodo.org/record/14877303/files/000015.pdf,False,False,,,,,,,,0,False
+2024,000016,Download pdf,https://zenodo.org/record/14877305/files/000016.pdf,False,False,,,,,,,,0,False
+2024,000017,Download pdf,https://zenodo.org/record/14877309/files/000017.pdf,False,False,,,,,,,,0,False
+2024,000018,Download pdf,https://zenodo.org/record/14877308/files/000018.pdf,False,False,,,,,,,,0,False
+2024,000019,Download pdf,https://zenodo.org/record/14877311/files/000019.pdf,False,False,,,,,,,,0,False
+2024,000020,Download pdf,https://zenodo.org/record/14877313/files/000020.pdf,False,False,,,,,,,,0,False
+2024,000021,Download pdf,https://zenodo.org/record/14877315/files/000021.pdf,False,False,,,,,,,,0,False
+2024,000022,Download pdf,https://zenodo.org/record/14877317/files/000022.pdf,False,False,,,,,,,,0,False
+2024,000023,Download pdf,https://zenodo.org/record/14877319/files/000023.pdf,False,False,,,,,,,,0,False
+2024,000024,Download pdf,https://zenodo.org/record/14877321/files/000024.pdf,False,False,,,,,,,,0,False
+2024,000025,Download pdf,https://zenodo.org/record/14877323/files/000025.pdf,False,False,,,,,,,,0,False
+2024,000026,Download pdf,https://zenodo.org/record/14877325/files/000026.pdf,False,False,,,,,,,,0,False
+2024,000027,Download pdf,https://zenodo.org/record/14877327/files/000027.pdf,False,False,,,,,,,,0,False
+2024,000028,Download pdf,https://zenodo.org/record/14877329/files/000028.pdf,False,False,,,,,,,,0,False
+2024,000029,Download pdf,https://zenodo.org/record/14877333/files/000029.pdf,False,False,,,,,,,,0,False
+2024,000030,Download pdf,https://zenodo.org/record/14877331/files/000030.pdf,False,False,,,,,,,,0,False
+2024,000031,Download pdf,https://zenodo.org/record/14877335/files/000031.pdf,False,False,,,,,,,,0,False
+2024,000032,Download pdf,https://zenodo.org/record/14877337/files/000032.pdf,True,False,research_method,ChatGPT,Text prompt generation for evaluation,Type 3 — Evaluation & Annotation Support,experimental_setup,"For the first two metrics, we used the rhythm and chord conditions from a clip in a evaluation dataset to generate music (along with a text prompt generated by ChatGPT; see Section 4.2), applied the Madmom and BTC models on the generated audio to estimate beats and chords, and evaluated how they reflect the given conditions.",,1,False
+2024,000033,Download pdf,https://zenodo.org/record/14877339/files/000033.pdf,False,False,,,,,,,,0,False
+2024,000034,Download pdf,https://zenodo.org/record/14877342/files/000034.pdf,False,False,,,,,,,,0,False
+2024,000035,Download pdf,https://zenodo.org/record/14877343/files/000035.pdf,False,False,,,,,,,,0,False
+2024,000036,Download pdf,https://zenodo.org/record/14877345/files/000036.pdf,False,False,,,,,,,,0,False
+2024,000037,Download pdf,https://zenodo.org/record/14877347/files/000037.pdf,False,False,,,,,,,,0,False
+2024,000038,Download pdf,https://zenodo.org/record/14877350/files/000038.pdf,False,False,,,,,,,,0,False
+2024,000039,Download pdf,https://zenodo.org/record/14877351/files/000039.pdf,False,False,,,,,,,,0,False
+2024,000040,Download pdf,https://zenodo.org/record/14877353/files/000040.pdf,False,False,,,,,,,,0,False
+2024,000041,Download pdf,https://zenodo.org/record/14877355/files/000041.pdf,False,False,,,,,,,,0,False
+2024,000042,Download pdf,https://zenodo.org/record/14877357/files/000042.pdf,False,False,,,,,,,,0,True
+2024,000043,Download pdf,https://zenodo.org/record/14877359/files/000043.pdf,False,False,,,,,,,,0,False
+2024,000044,Download pdf,https://zenodo.org/record/14877361/files/000044.pdf,False,False,,,,,,,,0,False
+2024,000045,Download pdf,https://zenodo.org/record/14877363/files/000045.pdf,False,False,,,,,,,,0,False
+2024,000046,Download pdf,https://zenodo.org/record/14877365/files/000046.pdf,False,False,,,,,,,,0,False
+2024,000047,Download pdf,https://zenodo.org/record/14877367/files/000047.pdf,False,False,,,,,,,,0,False
+2024,000048,Download pdf,https://zenodo.org/record/14877373/files/000048.pdf,False,False,,,,,,,,0,False
+2024,000049,Download pdf,https://zenodo.org/record/14877371/files/000049.pdf,False,False,,,,,,,,0,True
+2024,000050,Download pdf,https://zenodo.org/record/14877375/files/000050.pdf,False,False,,,,,,,,0,False
+2024,000051,Download pdf,https://zenodo.org/record/14877377/files/000051.pdf,False,False,,,,,,,,0,False
+2024,000052,Download pdf,https://zenodo.org/record/14877379/files/000052.pdf,False,False,,,,,,,,0,False
+2024,000053,Download pdf,https://zenodo.org/record/14877381/files/000053.pdf,False,False,,,,,,,,0,False
+2024,000054,Download pdf,https://zenodo.org/record/14877383/files/000054.pdf,False,False,,,,,,,,0,False
+2024,000055,Download pdf,https://zenodo.org/record/14877385/files/000055.pdf,False,False,,,,,,,,0,False
+2024,000056,Download pdf,https://zenodo.org/record/14877387/files/000056.pdf,False,False,,,,,,,,0,False
+2024,000057,Download pdf,https://zenodo.org/record/14877389/files/000057.pdf,False,False,,,,,,,,0,False
+2024,000058,Download pdf,https://zenodo.org/record/14877391/files/000058.pdf,False,False,,,,,,,,0,False
+2024,000059,Download pdf,https://zenodo.org/record/14877393/files/000059.pdf,False,False,,,,,,,,0,False
+2024,000060,Download pdf,https://zenodo.org/record/14877395/files/000060.pdf,False,False,,,,,,,,0,False
+2024,000061,Download pdf,https://zenodo.org/record/14877397/files/000061.pdf,False,False,,,,,,,,0,False
+2024,000062,Download pdf,https://zenodo.org/record/14877399/files/000062.pdf,False,False,,,,,,,,0,False
+2024,000063,Download pdf,https://zenodo.org/record/14877401/files/000063.pdf,False,False,,,,,,,,0,False
+2024,000064,Download pdf,https://zenodo.org/record/14877403/files/000064.pdf,False,False,,,,,,,,0,False
+2024,000065,Download pdf,https://zenodo.org/record/14877405/files/000065.pdf,False,False,,,,,,,,0,False
+2024,000066,Download pdf,https://zenodo.org/record/14877407/files/000066.pdf,False,False,,,,,,,,0,True
+2024,000067,Download pdf,https://zenodo.org/record/14877409/files/000067.pdf,False,False,,,,,,,,0,False
+2024,000068,Download pdf,https://zenodo.org/record/14877413/files/000068.pdf,False,False,,,,,,,,0,False
+2024,000069,Download pdf,https://zenodo.org/record/14877411/files/000069.pdf,False,False,,,,,,,,0,False
+2024,000070,Download pdf,https://zenodo.org/record/14877415/files/000070.pdf,False,False,,,,,,,,0,False
+2024,000071,Download pdf,https://zenodo.org/record/14877417/files/000071.pdf,False,False,,,,,,,,0,False
+2024,000072,Download pdf,https://zenodo.org/record/14877419/files/000072.pdf,False,False,,,,,,,,0,False
+2024,000073,Download pdf,https://zenodo.org/record/14877421/files/000073.pdf,False,False,,,,,,,,0,False
+2024,000074,Download pdf,https://zenodo.org/record/14877423/files/000074.pdf,False,False,,,,,,,,0,False
+2024,000075,Download pdf,https://zenodo.org/record/14877425/files/000075.pdf,False,False,,,,,,,,0,True
+2024,000076,Download pdf,https://zenodo.org/record/14877427/files/000076.pdf,False,False,,,,,,,,0,True
+2024,000077,Download pdf,https://zenodo.org/record/14877429/files/000077.pdf,False,False,,,,,,,,0,True
+2024,000078,Download pdf,https://zenodo.org/record/14877431/files/000078.pdf,True,False,general_unspecified,ChatGPT; OpenAI,Research method / Tool application,Type 2 — Core System & Method Pipeline,experimental_setup,"Our major hypothesis therefore was: ""Music similarity estimated with ChatGPT correlates positively with human perception of music similarity"" Based on randomly chosen 15 query songs, comparisons of five pairs had to be made for every query group yielding a total of 15 × 5 = 75 pairs, with every song appearing exactly once in the whole questionnaire (15 as query songs, 75 as candidate songs). ## 3.2 ChatGPT evaluation of music similarity For our initial experiments [7] conducted on the 5th and 6th of April 2023 we used the ""Free Research Preview"" of the ChatGPT Mar 23 Version ( `https://openai. com/blog/chatgpt` ).",,1,True
+2024,000079,Download pdf,https://zenodo.org/record/14877433/files/000079.pdf,False,False,,,,,,,,0,False
+2024,000080,Download pdf,https://zenodo.org/record/14877435/files/000080.pdf,False,False,,,,,,,,0,True
+2024,000081,Download pdf,https://zenodo.org/record/14877437/files/000081.pdf,False,False,,,,,,,,0,False
+2024,000082,Download pdf,https://zenodo.org/record/14877441/files/000082.pdf,False,False,,,,,,,,0,False
+2024,000083,Download pdf,https://zenodo.org/record/14877443/files/000083.pdf,False,False,,,,,,,,0,True
+2024,000084,Download pdf,https://zenodo.org/record/14877445/files/000084.pdf,False,False,,,,,,,,0,False
+2024,000085,Download pdf,https://zenodo.org/record/14877447/files/000085.pdf,False,False,,,,,,,,0,False
+2024,000086,Download pdf,https://zenodo.org/record/14877449/files/000086.pdf,False,False,,,,,,,,0,False
+2024,000087,Download pdf,https://zenodo.org/record/14877451/files/000087.pdf,False,False,,,,,,,,0,False
+2024,000088,Download pdf,https://zenodo.org/record/14877453/files/000088.pdf,False,False,,,,,,,,0,False
+2024,000089,Download pdf,https://zenodo.org/record/14877455/files/000089.pdf,False,False,,,,,,,,0,False
+2024,000090,Download pdf,https://zenodo.org/record/14877459/files/000090.pdf,True,False,general_unspecified,Gemini,Automated evaluation labeling,Type 3 — Evaluation & Annotation Support,muchomusic,"To achieve this, we employ Gemini 1.0 Pro, this time prompting it to automatically label each question with one or more of the evaluation dimensions.",,1,True
+2024,000091,Download pdf,https://zenodo.org/record/14877458/files/000091.pdf,False,False,,,,,,,,0,False
+2024,000092,Download pdf,https://zenodo.org/record/14877461/files/000092.pdf,False,False,,,,,,,,0,False
+2024,000093,Download pdf,https://zenodo.org/record/14877463/files/000093.pdf,False,False,,,,,,,,0,False
+2024,000094,Download pdf,https://zenodo.org/record/14877465/files/000094.pdf,True,False,research_method,LLM; Claude,In-context caption generation,Type 1 — Dataset Creation & Corpus Augmentation,conclusion,"This approach includes music feature extraction and summarization from MIDI and the synthesized audio, as well as the use of the Claude-3 LLM to generate the final captions using in-context learning.",,1,True
+2024,000095,Download pdf,https://zenodo.org/record/14877467/files/000095.pdf,False,False,,,,,,,,0,False
+2024,000096,Download pdf,https://zenodo.org/record/14877469/files/000096.pdf,False,False,,,,,,,,0,False
+2024,000097,Download pdf,https://zenodo.org/record/14877471/files/000097.pdf,False,False,,,,,,,,0,False
+2024,000098,Download pdf,https://zenodo.org/record/14877473/files/000098.pdf,False,False,,,,,,,,0,False
+2024,000099,Download pdf,https://zenodo.org/record/14877475/files/000099.pdf,False,False,,,,,,,,0,False
+2024,000100,Download pdf,https://zenodo.org/record/14877477/files/000100.pdf,False,False,,,,,,,,0,False
+2024,000101,Download pdf,https://zenodo.org/record/14877479/files/000101.pdf,False,False,,,,,,,,0,False
+2024,000102,Download pdf,https://zenodo.org/record/14877481/files/000102.pdf,False,False,,,,,,,,0,False
+2024,000103,Download pdf,https://zenodo.org/record/14877483/files/000103.pdf,False,False,,,,,,,,0,False
+2024,000104,Download pdf,https://zenodo.org/record/14877485/files/000104.pdf,True,False,general_unspecified,LLM; BLOOM,Tag-to-caption dataset augmentation,Type 1 — Dataset Creation & Corpus Augmentation,the_role_of_training_data,"For this, we use BLOOM-176B [23], a competitive open-access LLM trained on responsibly sourced data.","Since LLM-based augmentation, being bounded by the information content in the source data, cannot increase specificity, our results highlight an often overlooked shortcoming of synthetic text. ## 4.2 Training data: size vs quality Next, we ask whether simply increasing dataset size can emphasise the benefits of tag-to-caption augmentation.",2,True
+2024,000105,Download pdf,https://zenodo.org/record/14877487/files/000105.pdf,True,False,general_unspecified,LLM; Large Language Model,Utterance & dialogue generation,Type 1 — Dataset Creation & Corpus Augmentation,introduction; dataset_lp_musicdialog; conclusion,"Third, we present extensive objective and subjective evaluations to demonstrate the effectiveness of LLM-based pseudo-music dialogues.","Although the proportion of queries for entity recognition such as track and artist has decreased, the percentage of similarity queries has increased. ## 5.3 Human Evaluation ## 5.2 Creation Process Based on the proposed pseudo dialogue generation method, we created LP-MusicDialog, an LLM-based Pseudo Music Dialogue dataset.",3,True
+2024,000106,Download pdf,https://zenodo.org/record/14877489/files/000106.pdf,False,False,,,,,,,,0,False
+2024,000107,Download pdf,https://zenodo.org/record/14877491/files/000107.pdf,False,False,,,,,,,,0,False
+2024,000108,Download pdf,https://zenodo.org/record/14877493/files/000108.pdf,False,False,,,,,,,,0,False
+2024,000109,Download pdf,https://zenodo.org/record/14877495/files/000109.pdf,False,False,,,,,,,,0,True
+2024,000110,Download pdf,https://zenodo.org/record/14877497/files/000110.pdf,False,False,,,,,,,,0,False
+2024,000111,Download pdf,https://zenodo.org/record/14877499/files/000111.pdf,True,False,general_unspecified,LLM,Prompt engineering for MIR reasoning,Type 2 — Core System & Method Pipeline,abstract,"In this paper, we use a systematic prompt engineering approach for LLMs to solve MIR problems.",,1,True
+2024,000112,Download pdf,https://zenodo.org/record/14877501/files/000112.pdf,True,False,general_unspecified,ChatGPT,Genre selection assistance,Type 3 — Evaluation & Annotation Support,forced_replication_experiment,"This selection was supported using ChatGPT, which affirmed that these genres have distinct musical characteristics.",,1,True
+2024,000113,Download pdf,https://zenodo.org/record/14877503/files/000113.pdf,False,False,,,,,,,,0,False
+2024,000114,Download pdf,https://zenodo.org/record/14877505/files/000114.pdf,False,False,,,,,,,,0,False
+2024,000115,Download pdf,https://zenodo.org/record/14877507/files/000115.pdf,False,False,,,,,,,,0,True
+2024,000116,Download pdf,https://zenodo.org/record/14877509/files/000116.pdf,False,False,,,,,,,,0,False
+2024,000117,Download pdf,https://zenodo.org/record/14877511/files/000117.pdf,False,False,,,,,,,,0,True
+2024,000118,Download pdf,https://zenodo.org/record/14877513/files/000118.pdf,False,False,,,,,,,,0,False
+2024,000119,Download pdf,https://zenodo.org/record/14877515/files/000119.pdf,False,False,,,,,,,,0,False
+2024,000120,Download pdf,https://zenodo.org/record/14877517/files/000120.pdf,False,False,,,,,,,,0,False
+2024,000121,Download pdf,https://zenodo.org/record/14877519/files/000121.pdf,False,False,,,,,,,,0,False
+2024,000122,Download pdf,https://zenodo.org/record/14877521/files/000122.pdf,False,False,,,,,,,,0,False
+2024,000123,Download pdf,https://zenodo.org/record/14877523/files/000123.pdf,False,False,,,,,,,,0,False
+2025,000001,Download pdf,https://zenodo.org/record/17706316/files/000001.pdf,False,False,,,,,,,,0,True
+2025,000002,Download pdf,https://zenodo.org/record/17706321/files/000002.pdf,False,False,,,,,,,,0,False
+2025,000003,Download pdf,https://zenodo.org/record/17706323/files/000003.pdf,False,False,,,,,,,,0,True
+2025,000004,Download pdf,https://zenodo.org/record/17706327/files/000004.pdf,False,False,,,,,,,,0,False
+2025,000005,Download pdf,https://zenodo.org/record/17706329/files/000005.pdf,False,False,,,,,,,,0,False
+2025,000006,Download pdf,https://zenodo.org/record/17706331/files/000006.pdf,False,False,,,,,,,,0,False
+2025,000007,Download pdf,https://zenodo.org/record/17706333/files/000007.pdf,False,False,,,,,,,,0,False
+2025,000008,Download pdf,https://zenodo.org/record/17706335/files/000008.pdf,True,False,general_unspecified,Whisper; OpenAI,Automatic lyrics transcription,Type 2 — Core System & Method Pipeline,dataset_and_processing,"We use a pretrained model (OpenAI/Whisper) for speech to text conversion with a prompt comprising the words of the song lyrics in Devanagiri script, together with expected pronunciation variations.",,1,False
+2025,000009,Download pdf,https://zenodo.org/record/17706337/files/000009.pdf,True,False,figure_generation,Stable Diffusion,Image synthesis / Figure creation,Type 4 — Manuscript & Presentation Assistance,application,"A plane text prompt can be converted into a rich text prompt in the JSON format by using the translator available at `https://rich-text-to-image.github.io/ rich-text-to-json.html` . > 4 We used Stable Diffusion XL available at `https://huggingface.co/stabilityai/ stable-diffusion-xl-base-1.0` images, which are then refined through coloring.",,1,True
+2025,000010,Download pdf,https://zenodo.org/record/17706339/files/000010.pdf,False,False,,,,,,,,0,False
+2025,000011,Download pdf,https://zenodo.org/record/17706341/files/000011.pdf,False,False,,,,,,,,0,False
+2025,000012,Download pdf,https://zenodo.org/record/17706343/files/000012.pdf,False,False,,,,,,,,0,False
+2025,000013,Download pdf,https://zenodo.org/record/17706345/files/000013.pdf,False,False,,,,,,,,0,True
+2025,000014,Download pdf,https://zenodo.org/record/17706347/files/000014.pdf,False,False,,,,,,,,0,False
+2025,000015,Download pdf,https://zenodo.org/record/17706349/files/000015.pdf,False,False,,,,,,,,0,False
+2025,000016,Download pdf,https://zenodo.org/record/17706351/files/000016.pdf,False,False,,,,,,,,0,False
+2025,000017,Download pdf,https://zenodo.org/record/17706353/files/000017.pdf,False,False,,,,,,,,0,False
+2025,000018,Download pdf,https://zenodo.org/record/17706355/files/000018.pdf,True,False,data_annotation,GPT-4o; GPT-3.5; GPT-4,Music emotion annotation,Type 3 — Evaluation & Annotation Support,experimental_results_and_discussion,"To test this, GPT-4o was prompted to annotate the same 400 samples across three independent runs.","In contrast, GPT-3.5 reaches only 43%, underscoring significant advancements in the GPT-4 family’s ability to accurately interpret and annotate musical emotion. ## 4.2.3 Context Ablation Study To further validate the effectiveness of providing musical context, we conducted an ablation experiment in which GPT-4o was prompted to label the same 400 samples without any additional context information.",2,True
+2025,000019,Download pdf,https://zenodo.org/record/17706357/files/000019.pdf,False,False,,,,,,,,0,False
+2025,000020,Download pdf,https://zenodo.org/record/17706359/files/000020.pdf,False,False,,,,,,,,0,False
+2025,000021,Download pdf,https://zenodo.org/record/17706363/files/000021.pdf,False,False,,,,,,,,0,False
+2025,000022,Download pdf,https://zenodo.org/record/17706367/files/000022.pdf,False,False,,,,,,,,0,False
+2025,000023,Download pdf,https://zenodo.org/record/17706370/files/000023.pdf,False,False,,,,,,,,0,False
+2025,000024,Download pdf,https://zenodo.org/record/17706373/files/000024.pdf,False,False,,,,,,,,0,False
+2025,000025,Download pdf,https://zenodo.org/record/17706375/files/000025.pdf,False,False,,,,,,,,0,False
+2025,000026,Download pdf,https://zenodo.org/record/17706377/files/000026.pdf,True,False,general_unspecified; research_method,Large Language Model; LLM; BLOOM,Dataset pseudo-caption creation; Metadata-to-caption generation; Research method / Tool application; Tag-to-caption dataset augmentation,Type 1 — Dataset Creation & Corpus Augmentation; Type 2 — Core System & Method Pipeline,introduction; dataset; versions_of_metascore; conclusion,"MetaScore contains 963K musical scores paired with rich metadata collected from the MuseScore forum 1 as well as extensive metadata such as genre, composer, complexity, time signature, key signature, tempo and user interaction statistics (e.g., number of views, likes and comments). 2 In order to approach text to music generation, we further enhance the MetaScore dataset by completing missing genre metadata using a machine learning-based genre tagging algorithm and we leverage large language models to convert the metadata into natural language captions.","We form the input prompt string by combining genre, composer, complexity, time signature, key signature, tempo, and freeform user-specified tags. 5 As shown on the demo page, 3 > 4 We define the eight genres as follows: “Classical & traditional”: classical, religious, new age; “Soundtrack & stage”: soundtrack, comedy; “Rock& Metal”: pop, rock, metal; “Folk & country”: folk, country; “Urban”: hip hop, r&b, funk&soul; “Electronic & dance”: electronic, disco; “World”: world music, reggae&ska; “Jazz & blues”: jazz, blues. > 5 We have an old version of LLM-generated captions from tags.",5,True
+2025,000027,Download pdf,https://zenodo.org/record/17706381/files/000027.pdf,False,False,,,,,,,,0,False
+2025,000028,Download pdf,https://zenodo.org/record/17706383/files/000028.pdf,False,False,,,,,,,,0,False
+2025,000029,Download pdf,https://zenodo.org/record/17706385/files/000029.pdf,True,False,general_unspecified; research_method,LLM; Qwen; Claude,Answer probability evaluation; Question candidate generation; Question-answer quality assessment,Type 2 — Core System & Method Pipeline; Type 3 — Evaluation & Annotation Support,constructing_rulistening; results,"We use a prompt template including question text, audio description, and correct answer, and prompt the LLM to generate multiple candidates.","To calculate the probability for each answer to be selected ptext(y|q), we use the log probability of a lightweight text-only LLM Qwen 2.5 7B.",3,False
+2025,000030,Download pdf,https://zenodo.org/record/17706387/files/000030.pdf,False,False,,,,,,,,0,False
+2025,000031,Download pdf,https://zenodo.org/record/17706389/files/000031.pdf,False,False,,,,,,,,0,False
+2025,000032,Download pdf,https://zenodo.org/record/17706391/files/000032.pdf,False,False,,,,,,,,0,True
+2025,000033,Download pdf,https://zenodo.org/record/17706393/files/000033.pdf,False,False,,,,,,,,0,False
+2025,000034,Download pdf,https://zenodo.org/record/17706395/files/000034.pdf,False,False,,,,,,,,0,False
+2025,000035,Download pdf,https://zenodo.org/record/17706397/files/000035.pdf,False,False,,,,,,,,0,True
+2025,000036,Download pdf,https://zenodo.org/record/17706401/files/000036.pdf,False,False,,,,,,,,0,False
+2025,000037,Download pdf,https://zenodo.org/record/17706403/files/000037.pdf,False,False,,,,,,,,0,False
+2025,000038,Download pdf,https://zenodo.org/record/17706408/files/000038.pdf,False,False,,,,,,,,0,False
+2025,000039,Download pdf,https://zenodo.org/record/17706410/files/000039.pdf,False,False,,,,,,,,0,True
+2025,000040,Download pdf,https://zenodo.org/record/17706412/files/000040.pdf,False,False,,,,,,,,0,False
+2025,000041,Download pdf,https://zenodo.org/record/17706414/files/000041.pdf,False,False,,,,,,,,0,False
+2025,000042,Download pdf,https://zenodo.org/record/17706416/files/000042.pdf,False,False,,,,,,,,0,False
+2025,000043,Download pdf,https://zenodo.org/record/17706418/files/000043.pdf,False,False,,,,,,,,0,False
+2025,000044,Download pdf,https://zenodo.org/record/17706420/files/000044.pdf,False,False,,,,,,,,0,False
+2025,000045,Download pdf,https://zenodo.org/record/17706422/files/000045.pdf,True,False,general_unspecified,Large Language Model,YouTube metadata refinement,Type 1 — Dataset Creation & Corpus Augmentation,experiment,"The dataset comprises two subsets: PIAST-YT, a large-scale collection of approximately 7,367 tracks (about 900 hours) automatically collected from YouTube, with accompanying textual metadata (titles, descriptions, and tags) refined using a large language model; and PIAST-AT, a smaller, expert-annotated set of 1,986 tracks (about 17 hours in total, 30 seconds per track).",,1,False
+2025,000046,Download pdf,https://zenodo.org/record/17706424/files/000046.pdf,False,False,,,,,,,,0,False
+2025,000047,Download pdf,https://zenodo.org/record/17706467/files/000047.pdf,False,False,,,,,,,,0,False
+2025,000048,Download pdf,https://zenodo.org/record/17706469/files/000048.pdf,False,False,,,,,,,,0,True
+2025,000049,Download pdf,https://zenodo.org/record/17706471/files/000049.pdf,False,False,,,,,,,,0,False
+2025,000050,Download pdf,https://zenodo.org/record/17706477/files/000050.pdf,False,False,,,,,,,,0,True
+2025,000051,Download pdf,https://zenodo.org/record/17706481/files/000051.pdf,False,False,,,,,,,,0,False
+2025,000052,Download pdf,https://zenodo.org/record/17706484/files/000052.pdf,False,False,,,,,,,,0,False
+2025,000053,Download pdf,https://zenodo.org/record/17706486/files/000053.pdf,False,False,,,,,,,,0,False
+2025,000054,Download pdf,https://zenodo.org/record/17706488/files/000054.pdf,False,False,,,,,,,,0,False
+2025,000055,Download pdf,https://zenodo.org/record/17706490/files/000055.pdf,False,False,,,,,,,,0,False
+2025,000056,Download pdf,https://zenodo.org/record/17706492/files/000056.pdf,False,False,,,,,,,,0,False
+2025,000057,Download pdf,https://zenodo.org/record/17706494/files/000057.pdf,False,False,,,,,,,,0,False
+2025,000058,Download pdf,https://zenodo.org/record/17706496/files/000058.pdf,False,False,,,,,,,,0,False
+2025,000059,Download pdf,https://zenodo.org/record/17706498/files/000059.pdf,False,False,,,,,,,,0,False
+2025,000060,Download pdf,https://zenodo.org/record/17706500/files/000060.pdf,True,False,general_unspecified,LLM; Claude,Audio caption summarization,Type 1 — Dataset Creation & Corpus Augmentation,experimental_setting,"We then use a commercial LLM, specifically Claude 3.5 Sonnet, to summarize these captions with the prompt: “Summarize the description of each song in one sentence from 0 to 30 seconds.” Consequently, the resulting captions concisely describe how the music changes over time, providing a brief musical summary (e.g., ‘The piece transitions from cembalo to marimba, concluding with a Tibetan singing bowl and animal sounds’).",,1,True
+2025,000061,Download pdf,https://zenodo.org/record/17706504/files/000061.pdf,False,False,,,,,,,,0,False
+2025,000062,Download pdf,https://zenodo.org/record/17706509/files/000062.pdf,False,False,,,,,,,,0,False
+2025,000063,Download pdf,https://zenodo.org/record/17706515/files/000063.pdf,False,False,,,,,,,,0,False
+2025,000064,Download pdf,https://zenodo.org/record/17706517/files/000064.pdf,False,False,,,,,,,,0,False
+2025,000065,Download pdf,https://zenodo.org/record/17706519/files/000065.pdf,False,False,,,,,,,,0,False
+2025,000066,Download pdf,https://zenodo.org/record/17706521/files/000066.pdf,False,False,,,,,,,,0,True
+2025,000067,Download pdf,https://zenodo.org/record/17706523/files/000067.pdf,False,False,,,,,,,,0,False
+2025,000068,Download pdf,https://zenodo.org/record/17706525/files/000068.pdf,False,False,,,,,,,,0,False
+2025,000069,Download pdf,https://zenodo.org/record/17706527/files/000069.pdf,False,False,,,,,,,,0,False
+2025,000070,Download pdf,https://zenodo.org/record/17706531/files/000070.pdf,False,False,,,,,,,,0,False
+2025,000071,Download pdf,https://zenodo.org/record/17706537/files/000071.pdf,False,False,,,,,,,,0,False
+2025,000072,Download pdf,https://zenodo.org/record/17706539/files/000072.pdf,False,False,,,,,,,,0,False
+2025,000073,Download pdf,https://zenodo.org/record/17706543/files/000073.pdf,False,False,,,,,,,,0,False
+2025,000074,Download pdf,https://zenodo.org/record/17706545/files/000074.pdf,False,False,,,,,,,,0,False
+2025,000075,Download pdf,https://zenodo.org/record/17706547/files/000075.pdf,False,False,,,,,,,,0,True
+2025,000076,Download pdf,https://zenodo.org/record/17706552/files/000076.pdf,False,False,,,,,,,,0,True
+2025,000077,Download pdf,https://zenodo.org/record/17706555/files/000077.pdf,False,False,,,,,,,,0,True
+2025,000078,Download pdf,https://zenodo.org/record/17706557/files/000078.pdf,False,False,,,,,,,,0,False
+2025,000079,Download pdf,https://zenodo.org/record/17706559/files/000079.pdf,False,False,,,,,,,,0,False
+2025,000080,Download pdf,https://zenodo.org/record/17706561/files/000080.pdf,False,False,,,,,,,,0,False
+2025,000081,Download pdf,https://zenodo.org/record/17706565/files/000081.pdf,False,False,,,,,,,,0,False
+2025,000082,Download pdf,https://zenodo.org/record/17706567/files/000082.pdf,False,False,,,,,,,,0,False
+2025,000083,Download pdf,https://zenodo.org/record/17706569/files/000083.pdf,False,False,,,,,,,,0,False
+2025,000084,Download pdf,https://zenodo.org/record/17706573/files/000084.pdf,False,False,,,,,,,,0,False
+2025,000085,Download pdf,https://zenodo.org/record/17706575/files/000085.pdf,False,False,,,,,,,,0,True
+2025,000086,Download pdf,https://zenodo.org/record/17706577/files/000086.pdf,False,False,,,,,,,,0,True
+2025,000087,Download pdf,https://zenodo.org/record/17706579/files/000087.pdf,True,True,code_generation; negative,Generative AI; AI Tool,Negative prose disclosure / Code hints for figures,Type 4 — Manuscript & Presentation Assistance,ethics_statement,No generative AI tools were used in producing this text; code generation was used for hints in visualisations that are used as figures.,,1,True
+2025,000088,Download pdf,https://zenodo.org/record/17706584/files/000088.pdf,False,False,,,,,,,,0,False
+2025,000089,Download pdf,https://zenodo.org/record/17706588/files/000089.pdf,False,False,,,,,,,,0,False
+2025,000090,Download pdf,https://zenodo.org/record/17706590/files/000090.pdf,False,False,,,,,,,,0,False
+2025,000091,Download pdf,https://zenodo.org/record/17706592/files/000091.pdf,False,False,,,,,,,,0,False
+2025,000092,Download pdf,https://zenodo.org/record/17706308/files/000092.pdf,False,False,,,,,,,,0,True
+2025,000093,Download pdf,https://zenodo.org/record/17706596/files/000093.pdf,False,False,,,,,,,,0,False
+2025,000094,Download pdf,https://zenodo.org/record/17706598/files/000094.pdf,False,False,,,,,,,,0,False
+2025,000095,Download pdf,https://zenodo.org/record/17706601/files/000095.pdf,False,False,,,,,,,,0,False
+2025,000096,Download pdf,https://zenodo.org/record/17706603/files/000096.pdf,False,False,,,,,,,,0,False
+2025,000097,Download pdf,https://zenodo.org/record/17706605/files/000097.pdf,False,False,,,,,,,,0,False
+2025,000098,Download pdf,https://zenodo.org/record/17706609/files/000098.pdf,False,False,,,,,,,,0,False
+2025,000099,Download pdf,https://zenodo.org/record/17706613/files/000099.pdf,False,False,,,,,,,,0,False
